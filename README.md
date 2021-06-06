@@ -1,4 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There+👋)](https://www.youtube.com/c/NiyozbekObidov/videos)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Niyozbek👋)](https://www.linkedin.com/in/niyozbek-obidov/)
+
+<div align="left">
+  <br>🌱 I’m currently learning <b>MEAN (MongoDB, Express.js, AngularJS, NodeJS) tech stack</b>
+  <br>I'm experienced in <b>LAMP (Linux OS, Apache, MySQL, PHP) </b>
+  <br>👯 I’m looking to collaborate on <b>MEAN tech stack</b>
+  <br>🤔 I’m looking for help with <b>finding an interesting open-source projects to contribute</b> 
+  <br>💬 Ask me about <b>MEAN</b> and <b>LAMP</b> stacks
+  <br>📫 How to reach me: <b>imniyozbek@gmail.com</b>
+  <br>😄 Pronouns: <b>he/him</b>
+  <br>⚡ Fun fact: You can call me <b>Neyo</b>
+</div>
 
 <!--
 **niyozbek/niyozbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me
+<p align="center">
+  <a href="https://github.com/niyozbek">
+    <img src="https://img.shields.io/github/followers/niyozbek?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/niyozbekkk">
+    <img src="https://img.shields.io/twitter/follow/niyozbekkk?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/niyozbek-obidov/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin" alt="GitHub badge" />
+  </a>
+  <a href="https://www.youtube.com/c/NiyozbekObidov?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/views/UCbahlGmJnJPhpCuzb6lfKFA?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
+
+## Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niyozbek&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=niyozbek&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyozbek&theme=tokyonight" align="center" />
+</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=niyozbek&&style=flat-square" align="center" height='25px' />
+</div>  
