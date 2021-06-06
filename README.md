@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There+👋)](https://www.youtube.com/c/NiyozbekObidov/videos)
 
 <!--
 **niyozbek/niyozbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
