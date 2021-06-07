@@ -6,7 +6,7 @@
   <br>👯 I’m looking to collaborate on <b>MEAN tech stack</b>
   <br>🤔 I’m looking for help with <b>finding an interesting open-source projects to contribute</b> 
   <br>💬 Ask me about <b>MEAN</b> and <b>LAMP</b> stacks
-  <br>📫 How to reach me: <b>imniyozbek@gmail.com</b>
+  <br>📫 How to reach me: <b>niyozbekdilshodovich@gmail.com</b>
   <br>😄 Pronouns: <b>he/him</b>
   <br>⚡ Fun fact: You can call me <b>Neyo</b>
 </div>
