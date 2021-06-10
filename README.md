@@ -2,7 +2,7 @@
 
 <div align="left">
   <br>🌱 I’m currently learning <b>MEAN (MongoDB, Express.js, AngularJS, NodeJS) tech stack</b>
-  <br>I'm experienced in <b>LAMP (Linux OS, Apache, MySQL, PHP) </b>
+  <br>:eyeglasses: I'm experienced in <b>LAMP (Linux OS, Apache, MySQL, PHP) </b>
   <br>👯 I’m looking to collaborate on <b>MEAN tech stack</b>
   <br>🤔 I’m looking for help with <b>finding an interesting open-source projects to contribute</b> 
   <br>💬 Ask me about <b>MEAN</b> and <b>LAMP</b> stacks
