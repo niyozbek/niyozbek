@@ -7,7 +7,7 @@
   <br>💬 Ask me about <b>MEAN</b> and <b>LAMP</b> stacks
   <br>📫 How to reach me: <b>niyozbekdilshodovich@gmail.com</b>
   <br>😄 Pronouns: <b>he/him</b>
-  <br>⚡ Fun fact: You can call me <b>Neyo</b>
+  <br>⚡ Fun fact: You can call me <b>Niyo</b>
 </div>
 
 <!--
