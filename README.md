@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/niyozbek-obidov/">
     <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin" alt="GitHub badge" />
   </a>
-  <a href="https://www.youtube.com/c/YoungDev98?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/views/UCbahlGmJnJPhpCuzb6lfKFA?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
 </p>
 
 ## Github Stats
