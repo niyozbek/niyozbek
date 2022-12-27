@@ -30,9 +30,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/niyozbek">
     <img src="https://img.shields.io/github/followers/niyozbek?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/niyozbekkk">
-    <img src="https://img.shields.io/twitter/follow/niyozbekkk?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/niyozbek-obidov/">
     <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin" alt="GitHub badge" />
   </a>
