@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Niyozbek👋)](https://www.linkedin.com/in/niyozbek-obidov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Niyo👋)](https://www.linkedin.com/in/niyozbek-obidov/)
 
 <div align="left">
   <br>🌱 I’m currently learning <b>Java, Spring Boot</b>
@@ -6,8 +6,6 @@
   <br>🤔 I’m looking for help with <b>finding an interesting open-source projects to contribute</b> 
   <br>💬 Ask me about <b>MEAN</b> and <b>LAMP</b> stacks
   <br>📫 How to reach me: <b>niyozbekdilshodovich@gmail.com</b>
-  <br>😄 Pronouns: <b>he/him</b>
-  <br>⚡ Fun fact: You can call me <b>Niyo</b>
 </div>
 
 <!--
