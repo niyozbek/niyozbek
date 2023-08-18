@@ -1,12 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Niyo👋)](https://www.linkedin.com/in/niyozbek-obidov/)
 
+<!--
 <div align="left">
   <br>🌱 I’m currently learning <b>Java, Spring Boot</b>
   <br>:eyeglasses: I'm experienced in <b>LAMP (Linux OS, Apache, MySQL, PHP) </b> and <b>MEAN (MongoDB, Express.js, AngularJS, NodeJS)</b> tech stack
   <br>🤔 I’m looking for help with <b>finding an interesting open-source projects to contribute</b> 
   <br>💬 Ask me about <b>MEAN</b> and <b>LAMP</b> stacks
   <br>📫 How to reach me: <b>niyozbekdilshodovich@gmail.com</b>
-</div>
+</div>-->
 
 <!--
 **niyozbek/niyozbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +29,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/niyozbek">
     <img src="https://img.shields.io/github/followers/niyozbek?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://www.linkedin.com/in/niyozbek-obidov/">
+<!--   <a href="https://www.linkedin.com/in/niyozbek-obidov/">
     <img src="https://img.shields.io/badge/LinkedIn-%23808080?style=for-the-badge&logo=linkedin" alt="GitHub badge" />
-  </a>
+  </a> -->
 </p>
 
 ## Github Stats
