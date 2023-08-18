@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Niyo👋)](https://www.linkedin.com/in/niyozbek-obidov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Niyozbek👋)]([https://www.linkedin.com/in/niyozbek-obidov/](https://github.com/niyozbek))
 
 <!--
 <div align="left">
